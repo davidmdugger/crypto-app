@@ -1,1 +1,1 @@
-Just a simple React.js app using Browser Router and Bootstrap for React
+Just a simple React.js app using Browser Router to allow for a single page application (SPA) and Bootstrap for React.
